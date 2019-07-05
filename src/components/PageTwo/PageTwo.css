@@ -1,0 +1,25 @@
+.card-title {
+  text-align: center;
+}
+.secondh {
+  margin-top: 5%;
+  text-align: center;
+}
+.secondp {
+  text-align: center;
+}
+.secondrow1 {
+  margin-top: 8%;
+}
+.secondrow2 {
+  margin-top: 4%;
+}
+h2 {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  color: #000;
+  font-size: 8vh;
+  line-height: 105%;
+  font-weight: 600;
+  color: #b01aa7;
+}

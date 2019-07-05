@@ -1,0 +1,18 @@
+.seventh-container {
+  background-image: url(./photo_fb_meta.png);
+  height: 490px;
+  width: 69%;
+  margin-top: 8%;
+}
+.components {
+  padding-top: 19%;
+  padding-left: 10%;
+}
+.btn-earn {
+    width: 8em;
+    padding: 0;
+    background: transparent;
+    color: gray;
+    border: 3px solid gray;
+    padding: 8px 15px;
+}

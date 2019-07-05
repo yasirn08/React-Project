@@ -1,0 +1,13 @@
+.last-row{
+    margin-top: 8%;
+}
+.btn-end{
+    margin-left: 80px;
+    width: 80%;
+    padding: 0;
+    background: transparent;
+    color: #333;
+    border: 3px solid #333;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

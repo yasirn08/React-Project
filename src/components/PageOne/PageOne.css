@@ -1,0 +1,51 @@
+.First-page {
+  background-image: url(./Capture.jpg);
+  width: 100%;
+  height: 100%;
+  padding-bottom: 6%;
+}
+.writings {
+  width: 40%;
+  margin-left: 10%;
+  padding-top: 5%;
+}
+h3 {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  color: #000;
+  font-size: 4vh;
+  line-height: 100%;
+  font-weight: 200;
+}
+
+.btn {
+  position: relative;
+  display: block;
+  width: 300px;
+  margin-top: 20px;
+  padding: 18px 18px 16px 48px;
+  align-items: center;
+  border-radius: 4px;
+  background-color: #3b5998;
+  box-shadow: 1px 1px 3px 0 rgba(51, 51, 51, 0.4);
+  font-family: "Brown Pro", sans-serif;
+  color: #fff;
+  font-size: 18px;
+  text-align: center;
+  text-decoration: none;
+}
+.btn-1 {
+  background-image: url("./facebook_logos_PNG19751.png");
+  background-position: 8px 40%;
+  background-size: 50px 38px;
+  background-repeat: no-repeat;
+}
+.btn-2 {
+  margin-top: 10px;
+  background-color: white;
+  color: #000;
+  background-image: url("./google_PNG19630.png");
+  background-position: 15px 50%;
+  background-size: 30px 28px;
+  background-repeat: no-repeat;
+}
